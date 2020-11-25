@@ -1,3 +1,4 @@
+Favourites:
 London
 Paris
 Amsterdam
@@ -7,3 +8,13 @@ Bugibba
 Antwerp
 Frankfurt
 Cambridge
+
+Places to visit:
+Japan
+Korea
+Italy
+Cuba
+Colombia
+Kenya
+South Africa
+Zanzibar
